@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Hello! I am a first year Computer Systems Engineering student at Carleton University. I like to post some of my school projects that I work on
+Hello! I am a third year Computer Systems Engineering student at Carleton University. I like to post some of my school projects that I work on
 as well as some small personal projects.
